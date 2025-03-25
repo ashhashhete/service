@@ -1,0 +1,69 @@
+spring.datasource.url=jdbc:postgresql://localhost:5432/postgres
+spring.datasource.username=postgres
+spring.datasource.password=postgres
+spring.datasource.driver-class-name=org.postgresql.Driver
+spring.jpa.hibernate.ddl-auto=validate
+#spring.jpa.hibernate.ddl-auto= create-drop
+spring.jpa.properties.hibernate.globally_quoted_identifiers=true
+spring.jpa.show-sql=true
+spring.jpa.properties.hibernate.default_schema =public
+
+server.shutdown=graceful
+server.port=8081
+
+spring.mvc.pathmatch.matching-strategy = ANT_PATH_MATCHER
+
+sms-connector-service.baseUri=https://bulksms.analyticsmantra.com/sendsms/sendsms.php
+sms-connector-service.callbackURL=test
+
+sms-connector-service.smsAPIUsername=Demotrans
+sms-connector-service.smsAPIPassword=trans603
+
+sms-connector-service.otpAPIUsername=mantradmo
+sms-connector-service.otpAPIPassword=Neuyj1
+
+sms-connector-service.connectionTimeout=6000
+sms-connector-service.readTimeout=6000
+
+sms-connector-service.smsType.1=TEXT
+sms-connector-service.smsType.2=FLASH
+
+sms-connector-service.peid=1101416380000017226
+sms-connector-service.headerId=1105159376562132226
+sms-connector-service.sender=ANLTXM
+
+sms-connector-service.txtSmsTemplateId=1107168983004069810
+sms-connector-service.txtSmsTemplateFormat=Thanks%20for%20choosing%20us%21%20We%20are%20happy%20to%20have%20you%20Onboard.%20For%20any%20query%20please%20contact%3A%208700563179.%20Analytix%20Mantra
+
+sms-connector-service.txtSmsTemplateTwoId=1507165537453535065
+sms-connector-service.txtSmsTemplateFormatTwo=Dear%20%7B%23var%23%7D%2C%20We%20have%20noticed%20that%20your%20SMS%20is%20not%20getting%20delivered.%20Please%20connect%20with%20your%20Analytix%20Mantra%20account%20manager%20for%20quick%20resolution.%20Thanks%2C%20Analytix%20Mantra
+
+sms-connector-service.otpSmsTemplateId=1107170229736485776
+sms-connector-service.otpSmsTemplateFormat=Dear%20Customer%2C%20%7B%23var%23%7D%20is%20the%20secure%20OTP%20for%20Analytix%20Mantra%20web%20Login.%20Do%20not%20share%20this%20OTP%20with%20anyone.%20-Analytix%20Mantra
+
+sms-connector-service.escalatedCodes.114=socket timeout, could not connect API,Analytix mantra, please try again after some time.
+sms-connector-service.escalatedCodes.115=technical error! could not complete operation.
+sms-connector-service.escalatedCodes.118=An error occurred while pushing serviceName
+sms-connector-service.escalatedCodes.119=Received empty response from service
+
+sms-connector-service.successCodes.111=message sent successfully.
+sms-connector-service.successCodes.121= response received successfully.
+
+sms-connector-service.failureCodes.112=invalid msisdn check the receiver number.
+sms-connector-service.failureCodes.113=msisdn not active - check the receiver number
+sms-connector-service.failureCodes.117=connection timeout, could not reach API,Analytix mantra, please try again after some time.
+sms-connector-service.failureCodes.120=unknown HTTP status received
+sms-connector-service.failure-codes.401=Unauthorised Request.
+
+
+sms-connector-service.expected-access-token=a4ae15a3e2a00fd725236484d6195482cfe221e94b7d8c305a3b7052edc4b6ff8955c91a026d2d543e4b00fcc605a2506513ce1bf2cefc7f6c15dd93f5ec7310
+sms-connector-service.ext-reauthentication-api=http://11.0.1.148:8089/odoo/api/private/token/reauthentication
+sms-connector-service.ext-auth-key=VMuD8Ej6gT9naycKsgC0eZJeqYXmSgaZ
+
+
+
+
+
+
+
+

@@ -5,29 +5,48 @@
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
-		<version>2.5.5</version> <!-- Change to a Spring Boot version compatible with Java 11 -->
+		<version>2.7.4</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.tus</groupId>
-	<artifactId>uploadservice</artifactId>
-	<version>1.1.0-SNAPSHOT</version>
+	<groupId>com.adani.sra.connector.smsservice</groupId>
+	<artifactId>adani-sra-sms-service</artifactId>
+	<version>1.2.1</version>
 	<packaging>war</packaging>
-	<name>uploadservice</name>
-	<description>Upload service project</description>
+	<name>sra-sms-service</name>
+	<description>Demo project for Spring Boot</description>
 	<properties>
-		<java.version>11</java.version> <!-- Change Java version to 11 -->
+		<java.version>11</java.version>
+		<tomcat.version>9.0.71</tomcat.version>
 	</properties>
+
 	<dependencies>
+		<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot</artifactId>
+			<version>2.7.4</version>
+		</dependency>
+		<dependency>
+			<groupId>org.springframework</groupId>
+			<artifactId>spring-context</artifactId>
+		</dependency>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-web</artifactId>
 		</dependency>
-
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-devtools</artifactId>
 			<scope>runtime</scope>
 			<optional>true</optional>
+		</dependency>
+		<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-configuration-processor</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-starter-data-jpa</artifactId>
+			<version>${project.parent.version}</version>
 		</dependency>
 		<dependency>
 			<groupId>org.projectlombok</groupId>
@@ -36,19 +55,49 @@
 		</dependency>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
-			<artifactId>spring-boot-starter-tomcat</artifactId>
-			<scope>provided</scope>
-		</dependency>
-		<dependency>
-			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
 		</dependency>
 		<dependency>
-<groupId>ws.schild</groupId>
-<artifactId>jave-all-deps</artifactId>
-<version>3.3.1</version>
-</dependency>
+			<groupId>io.springfox</groupId>
+			<artifactId>springfox-boot-starter</artifactId>
+			<version>3.0.0</version>
+		</dependency>
+		<dependency>
+			<groupId>io.springfox</groupId>
+			<artifactId>springfox-swagger2</artifactId>
+			<version>3.0.0</version>
+		</dependency>
+		<dependency>
+			<groupId>io.springfox</groupId>
+			<artifactId>springfox-swagger-ui</artifactId>
+			<version>3.0.0</version>
+		</dependency>
+		<dependency>
+			<groupId>org.postgresql</groupId>
+			<artifactId>postgresql</artifactId>
+			<version>42.6.0</version> <!-- Replace with the latest version -->
+		</dependency>
+		<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-starter-validation</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>org.apache.httpcomponents</groupId>
+			<artifactId>httpcore</artifactId>
+		</dependency>
+
+		<dependency>
+			<groupId>org.apache.httpcomponents</groupId>
+			<artifactId>httpclient</artifactId>
+		</dependency>
+
+		<dependency>
+			<groupId>org.mockito</groupId>
+			<artifactId>mockito-inline</artifactId>
+			<version>3.4.6</version>
+			<scope>test</scope>
+		</dependency>
 	</dependencies>
 
 	<build>
@@ -56,15 +105,68 @@
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-maven-plugin</artifactId>
+				<version>${project.parent.version}</version>
 				<configuration>
-					<image>
-						<builder>paketobuildpacks/builder-jammy-base:latest</builder>
-					</image>
 					<excludes>
 						<exclude>
 							<groupId>org.projectlombok</groupId>
 							<artifactId>lombok</artifactId>
 						</exclude>
+					</excludes>
+				</configuration>
+			</plugin>
+
+			<plugin>
+				<artifactId>maven-war-plugin</artifactId>
+				<version>3.4.0</version>
+				<configuration>
+					<failOnMissingWebXml>false</failOnMissingWebXml>
+				</configuration>
+			</plugin>
+			<plugin>
+				<groupId>org.jacoco</groupId>
+				<artifactId>jacoco-maven-plugin</artifactId>
+				<version>0.8.7</version>
+				<executions>
+					<execution>
+						<id>prepare-agent</id>
+						<goals>
+							<goal>prepare-agent</goal>
+						</goals>
+					</execution>
+					<execution>
+						<id>report</id>
+						<goals>
+							<goal>report</goal>
+						</goals>
+					</execution>
+					<execution>
+						<id>jacoco-check</id>
+						<goals>
+							<goal>check</goal>
+						</goals>
+						<configuration>
+							<rules>
+								<rule>
+									<limits>
+										<limit>
+											<minimum>0.0</minimum>
+										</limit>
+									</limits>
+								</rule>
+							</rules>
+						</configuration>
+					</execution>
+				</executions>
+				<configuration>
+					<excludes>
+						<exclude>**/configurations/**</exclude>
+						<exclude>**/entities/**</exclude>
+						<exclude>**/models/**</exclude>
+						<exclude>**/repository/**</exclude>
+						<exclude>**/util/**</exclude>
+						<exclude>**/*Application*</exclude>
+						<sonar.exclusions>**/target/**/*</sonar.exclusions>
 					</excludes>
 				</configuration>
 			</plugin>
