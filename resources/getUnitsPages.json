@@ -1,0 +1,306 @@
+{
+  "units": [
+    {
+      "objectid": 474,
+      "globalId": "{46249BB3-E1BD-41A2-A0FE-16CB16E0DAE9}",
+      "relGlobalId": "{4ACDA243-E4D5-4687-A3AC-5C9D0B14E669}",
+      "unitId": "U_1695207245221",
+      "unitUniqueId": null,
+      "surveyDate": null,
+      "unitNo": "FF-01",
+      "unitUsage": "Others",
+      "clientQcStatus": null,
+      "genQcStatus": null,
+      "hohNameResponses": null
+    },
+    {
+      "objectid": 475,
+      "globalId": "{05B5924C-D00A-4B71-AEDD-C332E13B5004}",
+      "relGlobalId": "{472E4FFB-890E-4679-93AC-512D8C2F5F79}",
+      "unitId": "U_1695227818340",
+      "unitUniqueId": null,
+      "surveyDate": null,
+      "unitNo": "L-01",
+      "unitUsage": null,
+      "clientQcStatus": null,
+      "genQcStatus": null,
+      "hohNameResponses": null
+    },
+    {
+      "objectid": 476,
+      "globalId": "{FD8C59C0-496C-4126-B4B7-20C3A29D10E7}",
+      "relGlobalId": "{D89F665F-956F-4899-A96A-5AF665973A07}",
+      "unitId": "U_1695229402496",
+      "unitUniqueId": null,
+      "surveyDate": null,
+      "unitNo": "GF-01",
+      "unitUsage": "Residential",
+      "clientQcStatus": null,
+      "genQcStatus": null,
+      "hohNameResponses": [
+        {
+          "objectId": 453,
+          "relGlobalId": "{FD8C59C0-496C-4126-B4B7-20C3A29D10E7}",
+          "globalId": "{774797AC-F0BE-4F8C-BC21-C206F57D40F4}",
+          "hohId": "H_1695229564412",
+          "hohName": "Meena"
+        },
+        {
+          "objectId": 454,
+          "relGlobalId": "{FD8C59C0-496C-4126-B4B7-20C3A29D10E7}",
+          "globalId": "{737C1383-8A70-48BD-ADBB-7127C825D2B7}",
+          "hohId": "H_1695229470833",
+          "hohName": "Sandeep Katre"
+        }
+      ]
+    },
+    {
+      "objectid": 477,
+      "globalId": "{338F0E56-1963-4A30-A6F1-0B6B490ED217}",
+      "relGlobalId": "{C57B4F35-8808-4BC9-A4C8-5FCF786D8E1A}",
+      "unitId": "U_1695272863944",
+      "unitUniqueId": null,
+      "surveyDate": null,
+      "unitNo": "GF-01",
+      "unitUsage": "Residential",
+      "clientQcStatus": null,
+      "genQcStatus": null,
+      "hohNameResponses": [
+        {
+          "objectId": 455,
+          "relGlobalId": "{338F0E56-1963-4A30-A6F1-0B6B490ED217}",
+          "globalId": "{E9EC7D6C-F697-4A3F-B798-7173FF930642}",
+          "hohId": "H_1695273023804",
+          "hohName": "Sandeep Katre"
+        }
+      ]
+    },
+    {
+      "objectid": 478,
+      "globalId": "{56E4E301-94DF-474F-829D-B11E727C1E06}",
+      "relGlobalId": "{7C95C8DE-F6EA-40A9-9853-7B4B5C3E0A21}",
+      "unitId": "U_1695277290342",
+      "unitUniqueId": null,
+      "surveyDate": null,
+      "unitNo": "L-01",
+      "unitUsage": "Residential + Commercial",
+      "clientQcStatus": null,
+      "genQcStatus": null,
+      "hohNameResponses": [
+        {
+          "objectId": 456,
+          "relGlobalId": "{56E4E301-94DF-474F-829D-B11E727C1E06}",
+          "globalId": "{B65C065A-3FD5-4462-B48D-712FE7D045F1}",
+          "hohId": "H_1695277796443",
+          "hohName": "Prathamesh "
+        }
+      ]
+    },
+    {
+      "objectid": 479,
+      "globalId": "{E6648650-736E-4635-84F5-EA53B6E032C4}",
+      "relGlobalId": "{DCEFC7C9-A4FE-4278-8A4D-24C293823428}",
+      "unitId": "U_1695279963261",
+      "unitUniqueId": null,
+      "surveyDate": null,
+      "unitNo": "L-01",
+      "unitUsage": null,
+      "clientQcStatus": null,
+      "genQcStatus": null,
+      "hohNameResponses": null
+    },
+    {
+      "objectid": 480,
+      "globalId": "{D031DCBE-DBAC-4637-8870-CD91D75317A1}",
+      "relGlobalId": "{C6FE0F31-B083-4DBD-8514-7CEDADCE946D}",
+      "unitId": "U_1695576983239",
+      "unitUniqueId": null,
+      "surveyDate": null,
+      "unitNo": "L-01",
+      "unitUsage": "Others",
+      "clientQcStatus": null,
+      "genQcStatus": null,
+      "hohNameResponses": null
+    },
+    {
+      "objectid": 481,
+      "globalId": "{D3F96529-D037-4730-B1FC-650823029CA1}",
+      "relGlobalId": "{DC77A232-4D5D-4BEE-8574-DA3E4C97377B}",
+      "unitId": "U_1695621641707",
+      "unitUniqueId": null,
+      "surveyDate": null,
+      "unitNo": "GF-01",
+      "unitUsage": null,
+      "clientQcStatus": null,
+      "genQcStatus": null,
+      "hohNameResponses": null
+    },
+    {
+      "objectid": 482,
+      "globalId": "{1C055BCE-1747-4C6E-B98C-2BF15FF56CEA}",
+      "relGlobalId": "{6CFE3C63-CCCF-4080-BE71-90ADD60294D5}",
+      "unitId": "U_1695207245221",
+      "unitUniqueId": null,
+      "surveyDate": null,
+      "unitNo": "FF-01",
+      "unitUsage": "Others",
+      "clientQcStatus": null,
+      "genQcStatus": null,
+      "hohNameResponses": [
+        {
+          "objectId": 457,
+          "relGlobalId": "{1C055BCE-1747-4C6E-B98C-2BF15FF56CEA}",
+          "globalId": "{3545C60D-25E0-4191-B066-9ED55E7E34E6}",
+          "hohId": "H_1695621095127",
+          "hohName": "Sandeep Katre"
+        }
+      ]
+    },
+    {
+      "objectid": 483,
+      "globalId": "{68765F6F-9154-4D81-81D8-FB3E361FA753}",
+      "relGlobalId": "{059C35A1-B07D-4134-817C-FDB295A3B46E}",
+      "unitId": "U_1695623719982",
+      "unitUniqueId": null,
+      "surveyDate": null,
+      "unitNo": "GF-01",
+      "unitUsage": "Spiritual",
+      "clientQcStatus": null,
+      "genQcStatus": null,
+      "hohNameResponses": [
+        {
+          "objectId": 458,
+          "relGlobalId": "{68765F6F-9154-4D81-81D8-FB3E361FA753}",
+          "globalId": "{1E99AF93-DB6F-484C-9FAA-B269BCAD3DEA}",
+          "hohId": "H_1695624365802",
+          "hohName": "प्रथमेष"
+        }
+      ]
+    },
+    {
+      "objectid": 484,
+      "globalId": "{7F179BA7-E616-43F7-A84A-7F59D4680CCB}",
+      "relGlobalId": "{059C35A1-B07D-4134-817C-FDB295A3B46E}",
+      "unitId": "U_1695624963325",
+      "unitUniqueId": null,
+      "surveyDate": null,
+      "unitNo": "TF-01",
+      "unitUsage": "Others",
+      "clientQcStatus": null,
+      "genQcStatus": null,
+      "hohNameResponses": [
+        {
+          "objectId": 459,
+          "relGlobalId": "{7F179BA7-E616-43F7-A84A-7F59D4680CCB}",
+          "globalId": "{4D519EE3-7A74-4CAF-9AA5-4FF603958097}",
+          "hohId": "H_1695625461565",
+          "hohName": "Sandeep katre"
+        }
+      ]
+    },
+    {
+      "objectid": 485,
+      "globalId": "{156978FF-7BE6-44AE-9682-2CE35E96E692}",
+      "relGlobalId": "{ABF2FE0B-1BE8-4127-9086-C97E0B5105F9}",
+      "unitId": "U_1695625048369",
+      "unitUniqueId": null,
+      "surveyDate": null,
+      "unitNo": "GF-01",
+      "unitUsage": "Residential + Commercial",
+      "clientQcStatus": null,
+      "genQcStatus": null,
+      "hohNameResponses": [
+        {
+          "objectId": 460,
+          "relGlobalId": "{156978FF-7BE6-44AE-9682-2CE35E96E692}",
+          "globalId": "{201341CA-97C4-42EA-9A1C-7EA8D36BFB7E}",
+          "hohId": "H_1695626302999",
+          "hohName": "dhhs"
+        }
+      ]
+    },
+    {
+      "objectid": 486,
+      "globalId": "{405C275E-DF28-441F-9B63-06F94F59DEB1}",
+      "relGlobalId": "{ABF2FE0B-1BE8-4127-9086-C97E0B5105F9}",
+      "unitId": "U_1695626960212",
+      "unitUniqueId": null,
+      "surveyDate": null,
+      "unitNo": "SF-01",
+      "unitUsage": "Residential",
+      "clientQcStatus": null,
+      "genQcStatus": null,
+      "hohNameResponses": [
+        {
+          "objectId": 461,
+          "relGlobalId": "{405C275E-DF28-441F-9B63-06F94F59DEB1}",
+          "globalId": "{DF774111-FDAB-41DB-8B61-7181EB3E2B98}",
+          "hohId": "H_1695627159579",
+          "hohName": "djdj"
+        }
+      ]
+    },
+    {
+      "objectid": 487,
+      "globalId": "{72721E03-7086-4156-9901-839CB3C5F3D0}",
+      "relGlobalId": "{59450F7E-D531-4CAA-B7D0-DE1A65BD0DBB}",
+      "unitId": "U_1695725060701",
+      "unitUniqueId": null,
+      "surveyDate": null,
+      "unitNo": "FF-01",
+      "unitUsage": "Residential + Commercial",
+      "clientQcStatus": null,
+      "genQcStatus": null,
+      "hohNameResponses": [
+        {
+          "objectId": 462,
+          "relGlobalId": "{72721E03-7086-4156-9901-839CB3C5F3D0}",
+          "globalId": "{4793591D-D764-4658-9443-39D749D740F3}",
+          "hohId": "H_1695725198773",
+          "hohName": "Test N1"
+        }
+      ]
+    },
+    {
+      "objectid": 488,
+      "globalId": "{55A9D0D9-3F87-4389-B8F0-CA18DB832FF1}",
+      "relGlobalId": "{59450F7E-D531-4CAA-B7D0-DE1A65BD0DBB}",
+      "unitId": "U_1695727273597",
+      "unitUniqueId": null,
+      "surveyDate": null,
+      "unitNo": "FF-01",
+      "unitUsage": "Residential + Commercial",
+      "clientQcStatus": null,
+      "genQcStatus": null,
+      "hohNameResponses": [
+        {
+          "objectId": 463,
+          "relGlobalId": "{55A9D0D9-3F87-4389-B8F0-CA18DB832FF1}",
+          "globalId": "{5BBACE4D-6E25-46DD-8F99-D1AE5F9DA424}",
+          "hohId": "H_1695727398314",
+          "hohName": "Test N1"
+        }
+      ]
+    }
+  ]
+,
+  "pageable": {
+    "sort": {
+      "empty": true,
+      "sorted": false,
+      "unsorted": true
+    },
+    "offset": 60,
+    "pageNumber": 4,
+    "pageSize": 15,
+    "paged": true,
+    "unpaged": false
+  },
+  "last": false,
+  "totalElements": 190,
+  "totalPages": 13,
+  "number": 4,
+  "size": 15,
+  "first": false,
+  "empty": false
+}

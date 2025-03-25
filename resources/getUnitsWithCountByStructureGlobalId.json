@@ -1,0 +1,182 @@
+[
+  {
+    "objectid": 827,
+    "globalId": "{92D8AECD-72B0-48F9-B068-58F9BBBB4494}",
+    "structureId": "S_1692286368372",
+    "unitInfos": [
+      {
+        "objectid": 4980,
+        "globalId": "{5F9B37B3-DE8E-492D-B676-A118B02870AF}",
+        "relGlobalId": "{92D8AECD-72B0-48F9-B068-58F9BBBB4494}",
+        "unitId": "U_1704655319276",
+        "unitUniqueId": "",
+        "surveyDate": "",
+        "unitUsage": "Residential",
+        "surveyorName": "suser1",
+        "structureYear": "After 01.01.2011 but before 15.11.2022",
+        "hohInfos": [
+          {
+            "objectId": 2135,
+            "relGlobalId": "{5F9B37B3-DE8E-492D-B676-A118B02870AF}",
+            "globalId": "{95EDF48A-D488-4C91-B88E-5703F352ABFE}",
+            "hohId": "H_1705485267293",
+            "hohName": null,
+            "primaryHoh": null,
+            "countOfOtherMembers": null,
+            "countOfTotalMembers": 1
+          }
+        ]
+      },
+      {
+        "objectid": 4982,
+        "globalId": "{EDB52533-78A1-42AD-928A-7A85316666FD}",
+        "relGlobalId": "{92D8AECD-72B0-48F9-B068-58F9BBBB4494}",
+        "unitId": "U_1704660941899",
+        "unitUniqueId": "",
+        "surveyDate": "",
+        "unitUsage": "Commercial",
+        "surveyorName": "suser1",
+        "structureYear": "Prior to 2000",
+        "hohInfos": [
+          {
+            "objectId": 2138,
+            "relGlobalId": "{EDB52533-78A1-42AD-928A-7A85316666FD}",
+            "globalId": "{4A2489C3-468B-46C0-8C0E-8019F5DBF268}",
+            "hohId": "H_1705488458965",
+            "hohName": null,
+            "primaryHoh": null,
+            "countOfOtherMembers": null,
+            "countOfTotalMembers": 1
+          }
+        ]
+      },
+      {
+        "objectid": 4984,
+        "globalId": "{98166E54-5B5A-41DD-B9F8-EFB9BEF11292}",
+        "relGlobalId": "{92D8AECD-72B0-48F9-B068-58F9BBBB4494}",
+        "unitId": "U_1704664316512",
+        "unitUniqueId": "",
+        "surveyDate": "",
+        "unitUsage": "Residential",
+        "surveyorName": "suser1",
+        "structureYear": "Prior to 2000",
+        "hohInfos": [
+          {
+            "objectId": 2136,
+            "relGlobalId": "{98166E54-5B5A-41DD-B9F8-EFB9BEF11292}",
+            "globalId": "{7191AC57-431B-45A3-B1F9-D4D0CB01B11E}",
+            "hohId": "H_1705487057910",
+            "hohName": null,
+            "primaryHoh": null,
+            "countOfOtherMembers": null,
+            "countOfTotalMembers": 1
+          }
+        ]
+      },
+      {
+        "objectid": 6197,
+        "globalId": "{27F6294E-70C7-485F-866B-A0B855413AEC}",
+        "relGlobalId": "{92D8AECD-72B0-48F9-B068-58F9BBBB4494}",
+        "unitId": "U_1705734280049",
+        "unitUniqueId": "DRP/S4/GN/Z17/00011",
+        "surveyDate": "",
+        "unitUsage": "Residential",
+        "surveyorName": "suser1",
+        "structureYear": "Prior to 2000",
+        "hohInfos": [
+          {
+            "objectId": 2158,
+            "relGlobalId": "{27F6294E-70C7-485F-866B-A0B855413AEC}",
+            "globalId": "{4FA1D983-5992-4231-B221-5E8BBA03738C}",
+            "hohId": "H_1705769023418",
+            "hohName": null,
+            "primaryHoh": null,
+            "countOfOtherMembers": null,
+            "countOfTotalMembers": 1
+          }
+        ]
+      },
+      {
+        "objectid": 6200,
+        "globalId": "{C1722EEF-A37C-4FDD-B9CB-10D45223DCD9}",
+        "relGlobalId": "{92D8AECD-72B0-48F9-B068-58F9BBBB4494}",
+        "unitId": "U_1705743494176",
+        "unitUniqueId": "DRP/S4/GN/Z17/00013",
+        "surveyDate": "",
+        "unitUsage": "Residential",
+        "surveyorName": "suser1",
+        "structureYear": "After 01.01.2000 but before 01.01.2011",
+        "hohInfos": [
+          {
+            "objectId": 2156,
+            "relGlobalId": "{C1722EEF-A37C-4FDD-B9CB-10D45223DCD9}",
+            "globalId": "{4EC6366B-45A5-41C6-ADE7-E6D99C068020}",
+            "hohId": "H_1705743494176",
+            "hohName": null,
+            "primaryHoh": null,
+            "countOfOtherMembers": null,
+            "countOfTotalMembers": 1
+          }
+        ]
+      },
+      {
+        "objectid": 6207,
+        "globalId": "{E1D51F25-1387-4244-9C6C-76818800C07E}",
+        "relGlobalId": "{92D8AECD-72B0-48F9-B068-58F9BBBB4494}",
+        "unitId": "U_1705770616973",
+        "unitUniqueId": "DRP/S4/GN/Z17/00022",
+        "surveyDate": "",
+        "unitUsage": "Residential",
+        "surveyorName": "suser1",
+        "structureYear": "After 01.01.2000 but before 01.01.2011",
+        "hohInfos": [
+          {
+            "objectId": 2159,
+            "relGlobalId": "{E1D51F25-1387-4244-9C6C-76818800C07E}",
+            "globalId": "{F2024E46-11B3-4E1E-AB78-F2F6B8BFA81E}",
+            "hohId": "H_1705770616973",
+            "hohName": null,
+            "primaryHoh": null,
+            "countOfOtherMembers": 1,
+            "countOfTotalMembers": 2
+          }
+        ]
+      },
+      {
+        "objectid": 6224,
+        "globalId": "{C201A6AE-7FF3-439A-BC3C-4259935CD30A}",
+        "relGlobalId": "{92D8AECD-72B0-48F9-B068-58F9BBBB4494}",
+        "unitId": "U_1705799043018",
+        "unitUniqueId": "DRP/S4/GN/Z17/00888",
+        "surveyDate": "",
+        "unitUsage": "Residential",
+        "surveyorName": "suser1",
+        "structureYear": "After 01.01.2011 but before 15.11.2022",
+        "hohInfos": [
+          {
+            "objectId": 2165,
+            "relGlobalId": "{C201A6AE-7FF3-439A-BC3C-4259935CD30A}",
+            "globalId": "{E8AD25CE-CBE8-49A7-9680-41E5EC0B4A8F}",
+            "hohId": "H_1705799043019",
+            "hohName": null,
+            "primaryHoh": null,
+            "countOfOtherMembers": 1,
+            "countOfTotalMembers": 2
+          }
+        ]
+      },
+      {
+        "objectid": 6548,
+        "globalId": "{6D7E321F-BC7E-4517-810F-71F66B0624A8}",
+        "relGlobalId": "{92D8AECD-72B0-48F9-B068-58F9BBBB4494}",
+        "unitId": "U_1707195738541",
+        "unitUniqueId": "DRP/S4/GN/Z17/00001/F03/10",
+        "surveyDate": "2024-02-06 05:02:00",
+        "unitUsage": "Commercial",
+        "surveyorName": "Survey1",
+        "structureYear": "After 01.01.2011 but before CUT OFF Date",
+        "hohInfos": []
+      }
+    ]
+  }
+]

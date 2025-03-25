@@ -1,0 +1,20 @@
+[{
+  "unitInfoGlobalId": "{6C857EDB-C46B-4F86-8D8C-80E476214AF4}",
+  "unitInfoRelGlobalId": "{F92E8A78-2CBB-4261-A1C6-75A4585EEA1B}",
+  "unitInfoObjectId": 6303,
+  "mediaInfoGlobalId": "{0FC6C8D2-75CD-4122-8A5A-75E0E52528D6}",
+  "mediaInfoRelGlobalId": "{6C857EDB-C46B-4F86-8D8C-80E476214AF4}",
+  "mediaInfoObjectId": 5265,
+  "mediaInfoAttachAttachmentId": 5812,
+  "mediaInfoAttachRelGlobalId": "{0FC6C8D2-75CD-4122-8A5A-75E0E52528D6}",
+  "mediaInfoAttachContentType": "multipart/form-data",
+  "mediaInfoAttachAttName": "U_1705997574106_Panchnama Form_1706845984685.png",
+  "mediaInfoAttachDataSize": 2700681,
+  "mediaInfoAttachGlobalId": "{496D1CA6-FCED-4EEF-8812-45CAF626E8F7}",
+  "attachmentLink": "https://digitaltwin.oystermap.com/server/rest/services/Adani_SRA/hut_polygons_v4/FeatureServer/4/5265/attachments/5812",
+  "mediaInfoDocumentType": null,
+  "mediaInfoDocumentCategory": null,
+  "mediaInfoDocumentRemarks": null,
+  "mediaInfoLastEditedDate": null,
+  "thumbImpContent": null
+}]

@@ -1,0 +1,54 @@
+{
+  "categories": [
+    {
+      "mediaInfoDocumentCategory": "Aadhar Card",
+      "types": [
+        {
+          "mediaInfoDocumentType": "Aadhar Card",
+          "data": [
+            {
+              "memberInfoObjectId": 48,
+              "memberInfoGlobalId": "{AA8CB042-A1D3-4C6F-B883-D12F91B70700}",
+              "memberInfoRelGlobalId": "{7E473FB0-5CD4-49AE-8F91-C6838D0E6473}",
+              "mediaInfoGlobalId": "{D6C7998E-7FE8-40DF-9021-D28C7F5E40EA}",
+              "mediaInfoRelGlobalId": "{AA8CB042-A1D3-4C6F-B883-D12F91B70700}",
+              "mediaInfoObjectId": "918",
+              "mediaInfoAttachAttachmentId": "410",
+              "mediaInfoAttachRelGlobalId": "{D6C7998E-7FE8-40DF-9021-D28C7F5E40EA}",
+              "mediaInfoAttachContentType": "image/png",
+              "mediaInfoAttachAttName": "Screenshot 2023-08-28 232250.png",
+              "mediaInfoAttachDataSize": "3209353",
+              "mediaInfoAttachGlobalId": "{2B9E48C5-8D78-44FD-BABB-5A8F54FB239E}",
+              "mediaInfoAttachGdbArchiveOid": null,
+              "mediaInfoAttachGdbFromDate": null,
+              "mediaInfoAttachGdbToDate": null,
+              "attachmentLink": "https://digitaltwin.oystermap.com/server/rest/services/Adani_SRA/hut_polygons_v4/FeatureServer/4/918/attachments/410",
+              "mediaInfoDocumentRemarks": "members testing after fixing bug",
+              "mediaInfoLastEditedDate": "1709166680000"
+            },
+            {
+              "memberInfoObjectId": 48,
+              "memberInfoGlobalId": "{AA8CB042-A1D3-4C6F-B883-D12F91B70700}",
+              "memberInfoRelGlobalId": "{7E473FB0-5CD4-49AE-8F91-C6838D0E6473}",
+              "mediaInfoGlobalId": "{3265A167-5183-4B3C-BE4D-A4C9DEB0EAD4}",
+              "mediaInfoRelGlobalId": "{AA8CB042-A1D3-4C6F-B883-D12F91B70700}",
+              "mediaInfoObjectId": "919",
+              "mediaInfoAttachAttachmentId": "411",
+              "mediaInfoAttachRelGlobalId": "{3265A167-5183-4B3C-BE4D-A4C9DEB0EAD4}",
+              "mediaInfoAttachContentType": "image/png",
+              "mediaInfoAttachAttName": "Screenshot 2023-08-28 232250.png",
+              "mediaInfoAttachDataSize": "3209353",
+              "mediaInfoAttachGlobalId": "{0F01111B-782F-4F01-8178-170DEE793025}",
+              "mediaInfoAttachGdbArchiveOid": null,
+              "mediaInfoAttachGdbFromDate": null,
+              "mediaInfoAttachGdbToDate": null,
+              "attachmentLink": "https://digitaltwin.oystermap.com/server/rest/services/Adani_SRA/hut_polygons_v4/FeatureServer/4/919/attachments/411",
+              "mediaInfoDocumentRemarks": "members testing after fixing bug",
+              "mediaInfoLastEditedDate": "1709166688000"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

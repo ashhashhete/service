@@ -1,0 +1,26 @@
+[
+        {
+            "domainType": "Coded Value Domain",
+            "domainName": "unit_status",
+            "description": "In Progress",
+            "code": "In Progress"
+        },
+        {
+            "domainType": "Coded Value Domain",
+            "domainName": "unit_status",
+            "description": "Completed",
+            "code": "Completed"
+        },
+        {
+            "domainType": "Coded Value Domain",
+            "domainName": "unit_status",
+            "description": "Untouched",
+            "code": "Untouched"
+        },
+        {
+            "domainType": "Coded Value Domain",
+            "domainName": "unit_status",
+            "description": "On Hold",
+            "code": "On Hold"
+        }
+    ]

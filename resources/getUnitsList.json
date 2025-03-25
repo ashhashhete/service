@@ -1,0 +1,394 @@
+[
+  {
+    "objectid": 34327,
+    "globalId": "{F2DFA645-0F3A-4529-9C95-7E2DA6883B92}",
+    "relGlobalId": "{BD52CDFE-B3F5-482C-A281-F792FDFAE914}",
+    "unitId": "U_1717393606187",
+    "unitUniqueId": "DRP/S6/GN/Z02/00413/F1",
+    "visitCount": 1,
+    "surveyDate": "2024-06-03 11:16:00.0",
+    "drpOfficerName": "Mr. Amol Sadavarte",
+    "unitNo": null,
+    "unitUsage": "Commercial",
+    "clientQcStatus": "Not Started",
+    "genQcStatus": "Accepted",
+    "surveyorName": "Survey1 User1",
+    "structureSince": null,
+    "structureYear": "On or prior to 01.01.2000 (Refer GR dt 16.05.2015)",
+    "mobileNoForOtp": "",
+    "surveyEndDate": "1717395790338",
+    "wardNo": "GN",
+    "zoneNo": "Z02",
+    "sectorNo": "S6",
+    "formLock": 1,
+    "unitStatus": "Completed",
+    "respondentHohName": "",
+    "drpplTeam1Remarks": "Not Started",
+    "hohNames": [],
+    "hutDetails": {
+      "globalid": "{BD52CDFE-B3F5-482C-A281-F792FDFAE914}",
+      "objectid": 44162,
+      "workAreaName": "SVPN-02"
+    }
+  },
+  {
+    "objectid": 34329,
+    "globalId": "{BF5CA506-5D1F-4840-92C2-AD42184190EE}",
+    "relGlobalId": "{D62F0C43-D453-4B02-B4F7-697854FB9FA2}",
+    "unitId": "U_1717396710572",
+    "unitUniqueId": "DRP/S6/GN/Z02/00411",
+    "visitCount": 1,
+    "surveyDate": "2024-06-03 12:08:00.0",
+    "drpOfficerName": "Mr. Rahul Darade",
+    "unitNo": null,
+    "unitUsage": "Residential",
+    "clientQcStatus": "Not Started",
+    "genQcStatus": "Accepted",
+    "surveyorName": "Survey1 User1",
+    "structureSince": null,
+    "structureYear": "On or prior to 01.01.2000 (Refer GR dt 16.05.2015)",
+    "mobileNoForOtp": "",
+    "surveyEndDate": "1717397145086",
+    "wardNo": "GN",
+    "zoneNo": "Z02",
+    "sectorNo": "S6",
+    "formLock": 1,
+    "unitStatus": "Completed",
+    "respondentHohName": "",
+    "drpplTeam1Remarks": "Not Started",
+    "hohNames": [
+      {
+        "objectId": 31843,
+        "relGlobalId": "{BF5CA506-5D1F-4840-92C2-AD42184190EE}",
+        "globalId": "{30160098-8F33-4196-B428-2EBEB222F3B7}",
+        "hohId": "H_1717396866817",
+        "hohName": "My Area"
+      }
+    ],
+    "hutDetails": {
+      "globalid": "{D62F0C43-D453-4B02-B4F7-697854FB9FA2}",
+      "objectid": 44140,
+      "workAreaName": "SVPN-02"
+    }
+  },
+  {
+    "objectid": 29907,
+    "globalId": "{1483664B-1626-437B-AFCE-BFB0E0A1E1CE}",
+    "relGlobalId": "{243719C0-0936-4313-8322-510D18558AB1}",
+    "unitId": "U_1715942302097",
+    "unitUniqueId": "DRP/S6/GN/Z02/00409/F1",
+    "visitCount": 2,
+    "surveyDate": "2024-05-17 16:08:00.0",
+    "drpOfficerName": "Mr. Sunil Mahadev Anbhavane",
+    "unitNo": null,
+    "unitUsage": "Others",
+    "clientQcStatus": "Not Started",
+    "genQcStatus": "Accepted",
+    "surveyorName": "Survey1 User1",
+    "structureSince": null,
+    "structureYear": "After 01.01.2000 but on or prior to 01.01.2011 (Refer GR dt 16.05.2018)",
+    "mobileNoForOtp": "",
+    "surveyEndDate": "1717259029050",
+    "wardNo": "GN",
+    "zoneNo": "Z02",
+    "sectorNo": "S6",
+    "formLock": 1,
+    "unitStatus": "Completed",
+    "respondentHohName": "",
+    "drpplTeam1Remarks": "Not Started",
+    "hohNames": [
+      {
+        "objectId": 27441,
+        "relGlobalId": "{1483664B-1626-437B-AFCE-BFB0E0A1E1CE}",
+        "globalId": "{B2AF901F-2C92-46A1-AD69-9C270613129A}",
+        "hohId": "H_1715942385649",
+        "hohName": "Waka Piaka"
+      }
+    ],
+    "hutDetails": {
+      "globalid": "{243719C0-0936-4313-8322-510D18558AB1}",
+      "objectid": 44149,
+      "workAreaName": "SVPN-02"
+    }
+  },
+  {
+    "objectid": 29906,
+    "globalId": "{475B890B-0F25-40A4-B6E5-917548F0EEF9}",
+    "relGlobalId": "{243719C0-0936-4313-8322-510D18558AB1}",
+    "unitId": "U_1715941149358",
+    "unitUniqueId": "DRP/S6/GN/Z02/00409",
+    "visitCount": 2,
+    "surveyDate": "2024-05-17 15:49:00.0",
+    "drpOfficerName": "Mr. Rahul Darade",
+    "unitNo": null,
+    "unitUsage": "Others",
+    "clientQcStatus": "Approved",
+    "genQcStatus": "Accepted",
+    "surveyorName": "Survey1 User1",
+    "structureSince": null,
+    "structureYear": "On or prior to 01.01.2000 (Refer GR dt 16.05.2015)",
+    "mobileNoForOtp": "9833641196",
+    "surveyEndDate": "1717251648040",
+    "wardNo": "GN",
+    "zoneNo": "Z02",
+    "sectorNo": "S6",
+    "formLock": 0,
+    "unitStatus": "Completed",
+    "respondentHohName": "For All User",
+    "drpplTeam1Remarks": "Not Started",
+    "hohNames": [
+      {
+        "objectId": 27440,
+        "relGlobalId": "{475B890B-0F25-40A4-B6E5-917548F0EEF9}",
+        "globalId": "{2B0198F6-E502-4BDF-A4FA-0ACAEFB4C0F8}",
+        "hohId": "H_1715941274842",
+        "hohName": "Wka Chika Pika"
+      }
+    ],
+    "hutDetails": {
+      "globalid": "{243719C0-0936-4313-8322-510D18558AB1}",
+      "objectid": 44149,
+      "workAreaName": "SVPN-02"
+    }
+  },
+  {
+    "objectid": 33529,
+    "globalId": "{2BADE685-EC76-41CC-935F-40E7BD3B42A8}",
+    "relGlobalId": "{F49A6B46-9421-4AD0-9F8F-7D23A7E1673C}",
+    "unitId": "U_1717253089717",
+    "unitUniqueId": "DRP/S6/GN/Z02/00408",
+    "visitCount": 1,
+    "surveyDate": "2024-06-01 20:14:00.0",
+    "drpOfficerName": "Others",
+    "unitNo": null,
+    "unitUsage": "Commercial",
+    "clientQcStatus": "Not Started",
+    "genQcStatus": "Accepted",
+    "surveyorName": "Survey1 User1",
+    "structureSince": null,
+    "structureYear": "On or prior to 01.01.2000 (Refer GR dt 16.05.2015)",
+    "mobileNoForOtp": "",
+    "surveyEndDate": "1717253579145",
+    "wardNo": "GN",
+    "zoneNo": "Z02",
+    "sectorNo": "S6",
+    "formLock": 1,
+    "unitStatus": "Completed",
+    "respondentHohName": "",
+    "drpplTeam1Remarks": "Not Started",
+    "hohNames": [
+      {
+        "objectId": 30642,
+        "relGlobalId": "{2BADE685-EC76-41CC-935F-40E7BD3B42A8}",
+        "globalId": "{FF073E44-D7E4-481E-94B8-27361FB57127}",
+        "hohId": "H_1717253302418",
+        "hohName": "Sharim Wandrick"
+      }
+    ],
+    "hutDetails": {
+      "globalid": "{F49A6B46-9421-4AD0-9F8F-7D23A7E1673C}",
+      "objectid": 44148,
+      "workAreaName": "SVPN-02"
+    }
+  },
+  {
+    "objectid": 38329,
+    "globalId": "{EDC665E6-74D3-4354-A724-0212220D5395}",
+    "relGlobalId": "{12EC7522-9E0F-4DE0-BF7F-91C420DDA1EA}",
+    "unitId": "U_1718782676190",
+    "unitUniqueId": "DRP/S6/GN/Z02/00388",
+    "visitCount": 1,
+    "surveyDate": "2024-06-19 13:07:00.0",
+    "drpOfficerName": "Mr. Anil Waman Shinde",
+    "unitNo": null,
+    "unitUsage": "Religious",
+    "clientQcStatus": "Not Started",
+    "genQcStatus": "Accepted",
+    "surveyorName": "Survey1 User1",
+    "structureSince": null,
+    "structureYear": "",
+    "mobileNoForOtp": "9833641196",
+    "surveyEndDate": "1718798359032",
+    "wardNo": "GN",
+    "zoneNo": "Z02",
+    "sectorNo": "S6",
+    "formLock": 0,
+    "unitStatus": "Completed",
+    "respondentHohName": "",
+    "drpplTeam1Remarks": "Not Started",
+    "hohNames": [
+      {
+        "objectId": 36244,
+        "relGlobalId": "{EDC665E6-74D3-4354-A724-0212220D5395}",
+        "globalId": "{3538B9BD-E6FD-497D-8A2B-3406F806FBED}",
+        "hohId": "H_1718785000513",
+        "hohName": "Waf"
+      }
+    ],
+    "hutDetails": {
+      "globalid": "{12EC7522-9E0F-4DE0-BF7F-91C420DDA1EA}",
+      "objectid": 43841,
+      "workAreaName": "KRN-57"
+    }
+  },
+  {
+    "objectid": 33530,
+    "globalId": "{33C09ADF-40C4-469E-BAC2-DACFCCB25E21}",
+    "relGlobalId": "{7E32F5FB-5B20-4B33-B06E-451BDC97A0EC}",
+    "unitId": "U_1717251796496",
+    "unitUniqueId": "DRP/S6/GN/Z02/00375",
+    "visitCount": 1,
+    "surveyDate": "2024-06-01 19:53:00.0",
+    "drpOfficerName": "Mr. Amol Sadavarte",
+    "unitNo": null,
+    "unitUsage": "Residential",
+    "clientQcStatus": "Not Started",
+    "genQcStatus": "Accepted",
+    "surveyorName": "Survey1 User1",
+    "structureSince": null,
+    "structureYear": "On or prior to 01.01.2000 (Refer GR dt 16.05.2015)",
+    "mobileNoForOtp": "8485848609",
+    "surveyEndDate": "1717254596495",
+    "wardNo": "GN",
+    "zoneNo": "Z02",
+    "sectorNo": "S6",
+    "formLock": 0,
+    "unitStatus": "Completed",
+    "respondentHohName": "",
+    "drpplTeam1Remarks": "Not Started",
+    "hohNames": [
+      {
+        "objectId": 30643,
+        "relGlobalId": "{33C09ADF-40C4-469E-BAC2-DACFCCB25E21}",
+        "globalId": "{CCF943CF-2727-46E2-89C0-B3C65AC73FBC}",
+        "hohId": "H_1717251956584",
+        "hohName": "Dilip"
+      }
+    ],
+    "hutDetails": {
+      "globalid": "{7E32F5FB-5B20-4B33-B06E-451BDC97A0EC}",
+      "objectid": 43849,
+      "workAreaName": "KRN-55"
+    }
+  },
+  {
+    "objectid": 33531,
+    "globalId": "{23049471-CED4-49ED-9A90-60E6CAE664AE}",
+    "relGlobalId": "{F25F55DE-4D46-4354-A15B-30506E7A3459}",
+    "unitId": "U_1717252709153",
+    "unitUniqueId": "DRP/S6/GN/Z02/00371",
+    "visitCount": 1,
+    "surveyDate": "2024-06-01 20:08:00.0",
+    "drpOfficerName": "Others",
+    "unitNo": null,
+    "unitUsage": "Others",
+    "clientQcStatus": "Not Started",
+    "genQcStatus": "Accepted",
+    "surveyorName": "Survey1 User1",
+    "structureSince": null,
+    "structureYear": "On or prior to 01.01.2000 (Refer GR dt 16.05.2015)",
+    "mobileNoForOtp": "",
+    "surveyEndDate": "1717254770349",
+    "wardNo": "GN",
+    "zoneNo": "Z02",
+    "sectorNo": "S6",
+    "formLock": 0,
+    "unitStatus": "Completed",
+    "respondentHohName": "",
+    "drpplTeam1Remarks": "Not Started",
+    "hohNames": [
+      {
+        "objectId": 30644,
+        "relGlobalId": "{23049471-CED4-49ED-9A90-60E6CAE664AE}",
+        "globalId": "{377E9189-2320-4F81-9F3B-B96A91242DBD}",
+        "hohId": "H_1717253807696",
+        "hohName": "Vinod"
+      }
+    ],
+    "hutDetails": {
+      "globalid": "{F25F55DE-4D46-4354-A15B-30506E7A3459}",
+      "objectid": 43863,
+      "workAreaName": "KRN-55"
+    }
+  },
+  {
+    "objectid": 30726,
+    "globalId": "{5F95EBFC-72FF-4159-8EFC-7061BA49D66B}",
+    "relGlobalId": "{CFD90CAE-699D-430A-B8FF-3551D7948F34}",
+    "unitId": "U_1716302168732",
+    "unitUniqueId": "DRP/S6/GN/Z02/00346/F1",
+    "visitCount": 2,
+    "surveyDate": "2024-05-21 20:06:00.0",
+    "drpOfficerName": "Others",
+    "unitNo": null,
+    "unitUsage": "Commercial",
+    "clientQcStatus": "Not Started",
+    "genQcStatus": "Accepted",
+    "surveyorName": "Survey1 User1",
+    "structureSince": null,
+    "structureYear": "On or prior to 01.01.2000 (Refer GR dt 16.05.2015)",
+    "mobileNoForOtp": "",
+    "surveyEndDate": "1716361393401",
+    "wardNo": "GN",
+    "zoneNo": "Z02",
+    "sectorNo": "S6",
+    "formLock": 1,
+    "unitStatus": "Completed",
+    "respondentHohName": "",
+    "drpplTeam1Remarks": "Not Started",
+    "hohNames": [
+      {
+        "objectId": 28654,
+        "relGlobalId": "{5F95EBFC-72FF-4159-8EFC-7061BA49D66B}",
+        "globalId": "{388745E0-11C7-4FE4-9476-C7E470DDD046}",
+        "hohId": "H_1716310079717",
+        "hohName": "Jiten"
+      }
+    ],
+    "hutDetails": {
+      "globalid": "{CFD90CAE-699D-430A-B8FF-3551D7948F34}",
+      "objectid": 44111,
+      "workAreaName": "KRN-51"
+    }
+  },
+  {
+    "objectid": 25878,
+    "globalId": "{38E4E46F-0FAB-42E4-9CB8-EE956F35C19F}",
+    "relGlobalId": "{6D610376-0AFA-4531-AC52-240123F1E518}",
+    "unitId": "U_1715165717218",
+    "unitUniqueId": "DRP/S6/GN/Z02/00243",
+    "visitCount": 1,
+    "surveyDate": "2024-05-08 16:24:00.0",
+    "drpOfficerName": "Mr. Anil Waman Shinde",
+    "unitNo": null,
+    "unitUsage": "Residential",
+    "clientQcStatus": "Not Started",
+    "genQcStatus": "Accepted",
+    "surveyorName": "Survey1 User1",
+    "structureSince": null,
+    "structureYear": "On or prior to 01.01.2000 (Refer GR dt 16.05.2015)",
+    "mobileNoForOtp": "7517934858",
+    "surveyEndDate": "1715170198306",
+    "wardNo": "GN",
+    "zoneNo": "Z02",
+    "sectorNo": "S6",
+    "formLock": 1,
+    "unitStatus": "Completed",
+    "respondentHohName": "",
+    "drpplTeam1Remarks": "Eligible",
+    "hohNames": [
+      {
+        "objectId": 21828,
+        "relGlobalId": "{38E4E46F-0FAB-42E4-9CB8-EE956F35C19F}",
+        "globalId": "{118EEE23-A812-42AA-BED1-74C70D9AFC30}",
+        "hohId": "H_1715166394070",
+        "hohName": "Sejal"
+      }
+    ],
+    "hutDetails": {
+      "globalid": "{6D610376-0AFA-4531-AC52-240123F1E518}",
+      "objectid": 44025,
+      "workAreaName": "KRN-39"
+    }
+  }
+]

@@ -1,0 +1,34 @@
+{
+  "categories": [
+    {
+      "mediaInfoDocumentCategory": "Pan Card",
+      "types": [
+        {
+          "mediaInfoDocumentType": "Pan Card",
+          "data": [
+            {
+              "hohInfoObjectId": 93,
+              "hohInfoGlobalId": "{7E473FB0-5CD4-49AE-8F91-C6838D0E6473}",
+              "hohInfoRelGlobalId": "{4EE2B415-6E76-41A9-88C7-CF086D159289}",
+              "mediaInfoGlobalId": "{9C707A02-611B-4618-82DF-7258EDA84502}",
+              "mediaInfoRelGlobalId": "{7E473FB0-5CD4-49AE-8F91-C6838D0E6473}",
+              "mediaInfoObjectId": "915",
+              "mediaInfoAttachAttachmentId": "407",
+              "mediaInfoAttachRelGlobalId": "{9C707A02-611B-4618-82DF-7258EDA84502}",
+              "mediaInfoAttachContentType": "image/png",
+              "mediaInfoAttachAttName": "Screenshot 2023-08-19 102030.png",
+              "mediaInfoAttachDataSize": "2753692",
+              "mediaInfoAttachGlobalId": "{A2C500BE-007C-4AAE-87D3-1BFEAA93D819}",
+              "mediaInfoAttachGdbArchiveOid": null,
+              "mediaInfoAttachGdbFromDate": null,
+              "mediaInfoAttachGdbToDate": null,
+              "attachmentLink": "https://digitaltwin.oystermap.com/server/rest/services/Adani_SRA/hut_polygons_v4/FeatureServer/4/915/attachments/407",
+              "mediaInfoDocumentRemarks": "hoh test1 ",
+              "mediaInfoLastEditedDate": "1709108276000"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

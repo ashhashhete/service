@@ -1,0 +1,38 @@
+[
+	{
+		"unitInfoGlobalId": "{CAFDF495-3150-4399-B125-742F78E9336B}",
+		"unitInfoRelGlobalId": "{0740DE0B-CA9E-48FB-9E6D-F254E17C6006}",
+		"unitInfoObjectId": "2953",
+		"mediaInfoGlobalId": "{9C194836-E51C-4EEB-9E94-D5621910879C}",
+		"mediaInfoRelGlobalId": "{CAFDF495-3150-4399-B125-742F78E9336B}",
+		"mediaInfoObjectId": "1598",
+		"mediaInfoAttachAttachmentId": "2809",
+		"mediaInfoAttachRelGlobalId": "{9C194836-E51C-4EEB-9E94-D5621910879C}",
+		"mediaInfoAttachContentType": "image/png",
+		"mediaInfoAttachAttName": "Amenities_04.PNG",
+		"mediaInfoAttachDataSize": "17356",
+		"mediaInfoAttachGlobalId": "{D35D37A1-07FA-4713-BAF3-FD297DAD9821}",
+		"mediaInfoAttachGdbArchiveOid": "0",
+		"mediaInfoAttachGdbFromDate": "253402280999000",
+		"mediaInfoAttachGdbToDate": "253402280999000",
+		"attachmentLink": "https://digitaltwin.oystermap.com/server/rest/services/Adani_SRA/structure_info_v3/FeatureServer/4/1598/attachments/2809"
+	},
+	{
+		"unitInfoGlobalId": "{CAFDF495-3150-4399-B125-742F78E9336B}",
+		"unitInfoRelGlobalId": "{0740DE0B-CA9E-48FB-9E6D-F254E17C6006}",
+		"unitInfoObjectId": "2953",
+		"mediaInfoGlobalId": "{2F6B6FC7-0E59-481C-904F-55A122E4A568}",
+		"mediaInfoRelGlobalId": "{CAFDF495-3150-4399-B125-742F78E9336B}",
+		"mediaInfoObjectId": "1602",
+		"mediaInfoAttachAttachmentId": "1608",
+		"mediaInfoAttachRelGlobalId": "{2F6B6FC7-0E59-481C-904F-55A122E4A568}",
+		"mediaInfoAttachContentType": "multipart/form-data",
+		"mediaInfoAttachAttName": "/storage/emulated/0/Android/data/com.techaidsolution.gdc_app/files/S_1692696779715/U_1692696780155/U_1692696780155_Electricity Connection Bill_1703860937587.png",
+		"mediaInfoAttachDataSize": "8622",
+		"mediaInfoAttachGlobalId": "{E6D97E3B-B7C4-483D-A116-E522772C6D2C}",
+		"mediaInfoAttachGdbArchiveOid": "0",
+		"mediaInfoAttachGdbFromDate": "253402280999000",
+		"mediaInfoAttachGdbToDate": "253402280999000",
+		"attachmentLink": "https://digitaltwin.oystermap.com/server/rest/services/Adani_SRA/structure_info_v3/FeatureServer/4/1602/attachments/1608"
+	}
+]

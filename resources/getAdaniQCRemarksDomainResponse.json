@@ -1,0 +1,27 @@
+{
+  "status": {
+    "status": 1,
+    "code": "121",
+    "message": "response received successfully."
+  },
+  "data": [
+    {
+      "domainType": "Coded Value Domain",
+      "domainName": "client_qc_status",
+      "description": "Approved",
+      "code": "Approved"
+    },
+    {
+      "domainType": "Coded Value Domain",
+      "domainName": "client_qc_status",
+      "description": "Rejected",
+      "code": "Rejected"
+    },
+    {
+      "domainType": "Coded Value Domain",
+      "domainName": "client_qc_status",
+      "description": "Not Started",
+      "code": "Not Started"
+    }
+  ]
+}

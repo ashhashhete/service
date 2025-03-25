@@ -1,0 +1,44 @@
+[
+  {
+    "domainType": "Coded Value Domain",
+    "domainName": "domain_structure_year",
+    "description": "Prior to 2000 (Refer GR dt 16.05.2015)",
+    "code": "Prior to 2000 "
+  },
+  {
+    "domainType": "Coded Value Domain",
+    "domainName": "domain_structure_year",
+    "description": "After 01.01.2000 but before 01.01.2011  (Refer GR dt 16.05.2018)",
+    "code": "After 01.01.2000 but before 01.01.2011"
+  },
+  {
+    "domainType": "Coded Value Domain",
+    "domainName": "domain_structure_year",
+    "description": "After 01.01.2011 but before CUT OFF Date",
+    "code": "After 01.01.2011 but before 15.11.2022  "
+  },
+  {
+    "domainType": "Coded Value Domain",
+    "domainName": "unit_status",
+    "description": "In Progress",
+    "code": "In Progress"
+  },
+  {
+    "domainType": "Coded Value Domain",
+    "domainName": "unit_status",
+    "description": "Completed",
+    "code": "Completed"
+  },
+  {
+    "domainType": "Coded Value Domain",
+    "domainName": "unit_status",
+    "description": "Untouched",
+    "code": "Untouched"
+  },
+  {
+    "domainType": "Coded Value Domain",
+    "domainName": "unit_status",
+    "description": "On Hold",
+    "code": "On Hold"
+  }
+]

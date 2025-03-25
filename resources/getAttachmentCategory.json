@@ -1,0 +1,96 @@
+[
+  {
+    "documentCategory": "1 Year Recent Proof",
+    "documentTypes": [
+      {
+        "documentType": "Electoral Roll",
+        "attachmentFilename": "Electrol_Roll_1Year"
+      },
+      {
+        "documentType": "Electricity Connection",
+        "attachmentFilename": "Electricity_Conn_Bill_1Year"
+      }
+    ]
+  },
+  {
+    "documentCategory": "Proof of Address",
+    "documentTypes": [
+      {
+        "documentType": "Employer Certificate",
+        "attachmentFilename": "Employer_Certificate"
+      },
+      {
+        "documentType": "School College Certificate",
+        "attachmentFilename": "School_College_cert"
+      },
+      {
+        "documentType": "Voter ID (last one year)",
+        "attachmentFilename": "Voter_ID_1_Year"
+      }
+    ]
+  },
+  {
+    "documentCategory": "Proof of Chain of Agreement",
+    "documentTypes": [
+      {
+        "documentType": "Notarized Consent letter of earlier owner",
+        "attachmentFilename": "Consent_Letter_of_earlier_owner"
+      },
+      {
+        "documentType": "Tenancy Agreement & Receipt",
+        "attachmentFilename": "Tenancy_Agreement_copy"
+      }
+    ]
+  },
+  {
+    "documentCategory": "Proof of Structure",
+    "documentTypes": [
+      {
+        "documentType": "Electricity Connection Bill",
+        "attachmentFilename": "Electricity_Conn_Bill"
+      },
+      {
+        "documentType": "Electrol Roll Book",
+        "attachmentFilename": "Electrol_Roll_Book"
+      },
+      {
+        "documentType": "Permission/Receipt for Non-Agriculture use",
+        "attachmentFilename": "NonAgri_permission_rcpt"
+      },
+      {
+        "documentType": "Property Tax Payment Receipt",
+        "attachmentFilename": "PropTax_Pmnt_Rcpt"
+      },
+      {
+        "documentType": "Share Certificate",
+        "attachmentFilename": "Share_Certificate"
+      },
+      {
+        "documentType": "Survey Pavti/Photo Pass",
+        "attachmentFilename": "SurveyPavti_Photo_pass"
+      },
+      {
+        "documentType": "Voter ID",
+        "attachmentFilename": "Voter_ID"
+      }
+    ]
+  },
+  {
+    "documentCategory": "Proof of identity",
+    "documentTypes": [
+      {
+        "documentType": "Aadhar Card",
+        "attachmentFilename": "Aadhar_Card_Front"
+      }
+    ]
+  },
+  {
+    "documentCategory": "Proof of payment receipt from SRA",
+    "documentTypes": [
+      {
+        "documentType": "Payment Receipt of transfer of tenancy from SRA (Rs. 40,000 for Residence)",
+        "attachmentFilename": "Trnsfr_of_Tncy_Pmnt_Rcpt"
+      }
+    ]
+  }
+]

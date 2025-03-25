@@ -1,0 +1,27 @@
+[
+  {
+    "objectId": 453,
+    "relGlobalId": "{FD8C59C0-496C-4126-B4B7-20C3A29D10E7}",
+    "globalId": "{774797AC-F0BE-4F8C-BC21-C206F57D40F4}",
+    "hohId": "H_1695229564412",
+    "hohName": "Meena",
+    "hohSpouseName": "Sandeep Katre",
+    "hohContactNo": "8668622470",
+    "hohDob": "2020-06-18 12:06:01",
+    "hohAge": 25,
+    "hohGender": "Female",
+    "maritalStatus": "Divorce",
+    "aadharNo": "452564569912",
+    "panNo": "ABCDEFGHIJ",
+    "religion": "Other",
+    "fromState": "Kerala",
+    "motherTongue": "Assamese",
+    "education": "NA",
+    "occupation": "Chef",
+    "placeOfWork": "Inside",
+    "typeOfWork": "Consulting",
+    "countOfOtherMembers": null,
+    "isOtherHohPresent": null,
+    "primaryHoh": null
+  }
+]
